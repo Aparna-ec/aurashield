@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "647800160228",
+    "firebase_url": "https://aurashield-a5e04-default-rtdb.firebaseio.com",
+    "project_id": "aurashield-a5e04",
+    "storage_bucket": "aurashield-a5e04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647800160228:android:615b50984f27e77b4311f1",
+        "android_client_info": {
+          "package_name": "aura.shield"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj89quB5c83710GAROePBsfY7L9taFStc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647800160228:android:651c86d956f42ba14311f1",
+        "android_client_info": {
+          "package_name": "com.example.aurashield"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj89quB5c83710GAROePBsfY7L9taFStc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
