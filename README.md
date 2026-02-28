@@ -133,6 +133,10 @@ Architecture design and planning
 Custom business logic implementation
 Integration and testing
 UI/UX design decisions
+demo:hardware:
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/a3f00073-81a5-4f85-b2fd-70a151b6d175" />
+
+
 demo video:
 
 
